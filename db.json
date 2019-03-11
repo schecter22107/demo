@@ -2,7 +2,7 @@
   "surveys": [
     { "body": "Hello Survey 1", "category": "Survey", "created_on" : "NULL", "id":33,"name": "TestSurvey1", "sent": false, "sent_on": null, "title": "My new survey 1" },
     { "body": "Hello Survey 2", "category": "Survey", "created_on" : "NULL", "id":34,"name": "TestSurvey2", "sent": false, "sent_on": null, "title": "My new survey 2" },
-    { "body": "Hello Survey 3", "category": "Survey", "created_on" : "NULL", "id":35,"name": "TestSurvey3", "sent": false, "sent_on": null, "title": "My new survey 3" },
+    { "body": "Hello Survey 3", "category": "Survey", "created_on" : "NULL", "id":35,"name": "TestSurvey3", "sent": false, "sent_on": null, "title": "My new survey 3" }
   ],
   
 }
